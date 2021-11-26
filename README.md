@@ -47,6 +47,9 @@ void loop()
   // Do nothing here...
 }
 ```
+## Changelog
+25-11-2021 - quimpm - Fixed write function.
+
 ## License
 
 The content is licensed under the MIT license. See [License File](LICENSE) for more information.
